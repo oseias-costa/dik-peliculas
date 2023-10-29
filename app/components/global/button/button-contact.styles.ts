@@ -10,6 +10,7 @@ export const ButtonContainer = styled.a`
     position: relative;
     font-family: var(--font-dmSans);
     font-size: 25px;
+    color: var(--color-white);
     cursor: pointer;
     text-align: center;
     margin-left: 20px;

@@ -59,7 +59,6 @@ export const ServiceItem = styled.div`
 
     @media(max-width: 380px) {
         width: 100%;
-        height: auto;
         margin-left: 20px;
         margin-right: 20px;
 

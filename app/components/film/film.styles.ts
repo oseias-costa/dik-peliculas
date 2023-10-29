@@ -21,6 +21,7 @@ export const FilmDescription = styled.div`
         font-family: var(--font-montserrat);
         font-size: 36px;
         max-width: 600px;
+        color: var(--color-white);
         margin: 0 auto;
         padding-bottom: 15px;
         position: relative;
@@ -30,6 +31,7 @@ export const FilmDescription = styled.div`
 
     p {
         max-width: 600px;
+        color: var(--color-white);
         margin: 0 auto;
         font-family: var(--font-dmSans);
         position: relative;
