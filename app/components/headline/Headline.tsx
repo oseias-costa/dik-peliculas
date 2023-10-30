@@ -1,7 +1,7 @@
 "use client";
 import * as S from "./headeline.styles";
-import Background from '@/public/images/headline/background-headline.png'
-import Logo from '@/public/images/headline/logo-dik.svg'
+import Background from '@/public/images/headline/background-headline-new.png'
+import Logo from '@/public/images/headline/frame-logo.svg'
 import { headlineData } from "./headeline-data";
 import ButtonContact from "../global/button/ButtonContact";
 

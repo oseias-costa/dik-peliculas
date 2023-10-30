@@ -20,7 +20,6 @@ export const BackgroundImage = styled(Image)`
 `
 
 export const Description = styled.div`
-    background: rgba(0, 0, 0, 0.70);
     text-align: center;
     padding-top: 60px;
     padding-bottom: 60px;
@@ -40,7 +39,7 @@ export const Description = styled.div`
 
     h2 {
         font-family: var(--font-montserrat);
-        color: var(--color-green);
+        color: #23F318;
         font-weight: 300;
         font-size: 50px;
         max-width: 700px;
@@ -58,11 +57,11 @@ export const Description = styled.div`
         margin-bottom: 100px;
 
         h2 {
-            font-size: 40px;
+            font-size: 45px;
         }
 
         h1 {
-            font-size: 30px;
+            font-size: 34px;
         }
     }
 `
