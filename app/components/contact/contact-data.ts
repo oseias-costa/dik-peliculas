@@ -5,7 +5,7 @@ export const contactData = {
   title: "Contato",
   adress: {
     icon: Location,
-    content: "RSC-442, Jaguaruna - SC Cep 88715-000",
+    content: "SC-442, Jaguaruna - SC Cep 88715-000",
   },
   phone: {
     icon: Phone,

@@ -3,6 +3,7 @@ import Benefits from "./components/benefits/Benefits";
 import Call from "./components/call/Call";
 import Contact from "./components/contact/Contact";
 import Film from "./components/film/Film";
+import Footer from "./components/footer/Footer";
 import Whatsapp from "./components/global/whatsapp/Whatsapp";
 import Headline from "./components/headline/Headline";
 import Services from "./components/services/Services";
@@ -17,6 +18,7 @@ export default function Home() {
       <Call />
       <About />
       <Contact />
+      <Footer />
       <Whatsapp />
     </main>
   );

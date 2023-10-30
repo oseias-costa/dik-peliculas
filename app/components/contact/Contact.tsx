@@ -32,7 +32,7 @@ export default function Contact() {
           </S.ContactItem>
         </S.Contacts>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.78713238407!2d-52.40463699999999!3d-26.878503399999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e4c3cac7e44303%3A0x4508a85f3fd1238c!2sR.%20Rui%20Barbosa%2C%20266%20-%20Centro%2C%20Xanxer%C3%AA%20-%20SC%2C%2089820-000!5e0!3m2!1spt-BR!2sbr!4v1691613964520!5m2!1spt-BR!2sbr"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14008.229322643767!2d-49.0225892!3d-28.6280438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95215f276555eb03%3A0xff5f405f67a4ec!2sDik%20Peliculas%20Cortinas%20e%20Persianas%20Jaguaruna!5e0!3m2!1spt-BR!2sbr!4v1698696049613!5m2!1spt-BR!2sbr"
           width="400"
           height="300"
           loading="lazy"
