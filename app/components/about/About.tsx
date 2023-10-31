@@ -1,7 +1,7 @@
 "use client";
 import { aboudData } from "./about-data";
 import * as S from "./about.styles";
-import Logo from '@/public/images/about/about.svg'
+import Logo from '@/public/images/about/logo-about.svg'
 
 export default function About(){
     return(

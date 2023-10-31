@@ -5,7 +5,7 @@ import Photo from '@/public/images/film/car.png'
 
 export default function Film(){
     return(
-        <S.FilmContainer>
+        <S.FilmContainer id='Película'>
             <S.FilmDescription>
                 <h2>{filmData.title}</h2>
                 <p>{filmData.content1}</p>

@@ -18,7 +18,7 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: "Dik Películas",
   description:
-    "Trabalhamos com Películas de Alta Performance para seu carro e residência. Películas em Jaguaruna SC",
+    "Trabalhamos com Películas de Alta Performance para seu carro e residência. Películas em Jaguaruna SC - Instalação de Películas em Jaguaruna",
 };
 
 export default function RootLayout({

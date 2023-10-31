@@ -5,7 +5,7 @@ export const contactData = {
   title: "Contato",
   adress: {
     icon: Location,
-    content: "SC-442, Jaguaruna - SC Cep 88715-000",
+    content: "Avenida Duque de Caxias - Centro Jaguaruna SC. Anexo ao Auto Posto Nandi, ao lado do Ginásio de Esportes.",
   },
   phone: {
     icon: Phone,

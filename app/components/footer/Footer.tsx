@@ -41,7 +41,7 @@ export default function Footer() {
             alt="Instalar Películas em Jaguaruna SC"
             width={26}
           />
-          <p>RSC-442, Jaguaruna - SC Cep 88715-000</p>
+          <p>Avenida Duque de Caxias - Centro Jaguaruna SC. Anexo ao Auto Posto Nandi, ao lado do Ginásio de Esportes.</p>
         </div>
       </S.LocationContainer>
     </S.FooterContainer>

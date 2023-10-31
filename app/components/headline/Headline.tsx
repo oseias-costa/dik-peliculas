@@ -7,7 +7,7 @@ import ButtonContact from "../global/button/ButtonContact";
 
 export default function Headline(){
     return(
-        <S.HeadlineContainer>
+        <S.HeadlineContainer id='Inicio'>
             {/* <Image alt='Img' src={Background} fill={true} style={{ objectFit: "cover"}}/> */}
             <S.BackgroundImage alt='Img' src={Background} fill={true} quality={100}/>
             <S.LogoImg alt='Logo Dik Películas' src={Logo} />

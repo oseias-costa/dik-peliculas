@@ -40,11 +40,10 @@ export const ContactItem = styled.div`
   }
 
   .Contact__Content {
-    max-width: 300px;
     padding-top: 10px;
     font-family: var(--font-dmSans);
     color: var(--color-text);
-    max-width: 200px;
+    max-width: 300px;
   }
 
   .Contact__Content-phone {

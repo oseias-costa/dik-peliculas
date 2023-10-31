@@ -71,7 +71,7 @@ export const LocationContainer = styled.div`
     font-family: var(--font-dmSans);
     color: var(--color-white);
     padding-left: 20px;
-    max-width: 240px;
+    max-width: 300px;
     text-aling: left;
     font-size: 16px;
   }
