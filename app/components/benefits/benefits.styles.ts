@@ -58,3 +58,16 @@ export const Icon = styled(Image)`
     width: 62px;
     height: 62px;
 `
+
+export const Corte = styled(Image)`
+    width: 550px;
+    height: auto;
+    padding-bottom: 60px;
+
+    @media(max-width: 740px){
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+
+    }
+`

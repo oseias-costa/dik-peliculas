@@ -9,6 +9,11 @@ export const AboutContainer = styled.section`
   padding-top: 60px;
   padding-bottom: 60px;
   flex-wrap: wrap;
+  //flex-direction: row-reverse;
+
+  @media(max-width: 740px){
+    padding-bottom: 0px;
+  }
 `;
 
 export const Img = styled(Image)`
@@ -31,7 +36,6 @@ export const AboutDescription = styled.div`
     font-size: 42px;
     font-weight: 300;
     padding-bottom: 20px;
-    padding-top: 15px;
   }
 
   p {
@@ -47,3 +51,15 @@ export const AboutDescription = styled.div`
     padding-right: 20px;
   }
 `;
+
+export const AboutPhoto = styled(Image)`
+  width: 450px;
+  height: auto;
+
+  @media(max-width: 740px){
+      width: 100%;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 20px;
+  }
+`
